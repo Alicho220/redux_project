@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"my first love",
+        "content":"some tex kjflj;fkj;fk;fkfk;'lt"
+
+    },
+    {
+        "id":2,
+        "title":"How are you",
+        "content":"Loren ipsum dolor set"
+
+    },
+    {
+        "id":3,
+        "title":"How are they",
+        "content":"Loren ipsum dolor set"
+
+    },
+    {
+        "id":4,
+        "title":"How are you to them",
+        "content":"Loren ipsum dolor set"
+
+    },
+    {
+        "id":5,
+        "title":"How are you doing today",
+        "content":"Loren ipsum dolor set"
+
+    }
+]
