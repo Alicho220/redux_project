@@ -1,9 +1,10 @@
 import './App.css';
-import data from './data.json'
+// import data from './data.json'
 
 function App() {
   return (
     <div className="App">
+      <h2>love</h2>
      {/* <div className="posts">
      {data.map(postData=>{
        return(
